@@ -1,22 +1,23 @@
-HELP.md
-build/
-
-### Secrets ###
-!**/SecretsHolder.java
-
 ### Gradle ###
 .gradle
-!gradle/wrapper/gradle-wrapper.jar
+/build.gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
+/gradle/
+HELP.md
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+
+### Build ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-/build.gradle
-/gradlew
-/gradlew.bat
-/settings.gradle
+build/
+
+### Secrets ###
+!**/SecretsHolder.java
