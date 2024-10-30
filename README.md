@@ -1,10 +1,8 @@
 # Smart Home Back End
-![Weather](https://i.ibb.co/4W5jHH2/weather.jpg)
-
-![Repository Top Language](https://img.shields.io/github/languages/top/SergeyPomelov/MinimalPlantSensor)
-![Languages](https://img.shields.io/github/languages/count/SergeyPomelov/MinimalPlantSensor)
-![Github Repository Size](https://img.shields.io/github/repo-size/SergeyPomelov/MinimalPlantSensor)
-![Github Open Issues](https://img.shields.io/github/issues/SergeyPomelov/MinimalPlantSensor)
+![Repository Top Language](https://img.shields.io/github/languages/top/SergeyPomelov/SmartHomeBackEnd)
+![Languages](https://img.shields.io/github/languages/count/SergeyPomelov/SmartHomeBackEnd)
+![Github Repository Size](https://img.shields.io/github/repo-size/SergeyPomelov/SmartHomeBackEnd)
+![Github Open Issues](https://img.shields.io/github/issues/SergeyPomelov/SmartHomeBackEnd)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 For most of the automations see the related projects. 
